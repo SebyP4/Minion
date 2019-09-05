@@ -1,0 +1,9 @@
+name: Minion
+version: 1.0.1
+api: 3.0.0
+main: Minion\Minion\Main
+author: S4GuR
+
+commands:
+  minion:
+    description: "Spawn the minion"
